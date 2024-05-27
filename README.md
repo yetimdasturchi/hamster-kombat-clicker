@@ -46,6 +46,14 @@ screenshot_region = 4331,1033,97,21
 |`upper_threshold_max`| Katta qiymat uchun maksimal mayning diapazoni|
 |`screenshot_region`| Rasmdan aniqlash maydoni (kalibrator orqali aniqlanadi)|
 
+## Foydalanish
+
+- [web.telegram.org](https://web.telegram.org) orqali telegramga avtorizatsiya qilinadi
+- Google Chrome brauzeriga [Resource Override](https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii) ilovasi o'rnatiladi
+- Resource Override ilovasi sozlamalasidan **Tab URL:** qismiga `*`, **from** maydoniga `https://hamsterkombat.io/js/telegram-web-app.js` va **to** maydoniga `https://ktnff.tech/hamsterkombat/telegram-web-app.js` yoziladi
+- [web.telegram.org](https://web.telegram.org) orqali o'yin oynasi ochiladi
+- `python3 calibrate.py` buyrug'i orqali dastur kalibrovka qilinib `python3 click.py` orqali ishga tushiriladi
+
 ## Qo'llab-quvvatlash
 
 Muallifni qo'llab-quvvatlash va donatingni ushbu havola orqali amalga oshirsangiz bo'ladi https://tirikchilik.uz/yetimdasturchi
