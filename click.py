@@ -46,7 +46,7 @@ def multiple_clicks(x, y, interval_between_clicks, variation=60, check_interval=
                     print(f"Joriy hisoblagich: {current_value}")
 
                     if current_value < lower_threshold:
-                        print(f"Hisoblagich {lower_threshold} dan pastda. {yuqori_threshold} ga yetguncha bosishlar toʻxtatilmoqda...")
+                        print(f"Hisoblagich {lower_threshold} dan pastda. {upper_threshold} ga yetguncha bosishlar toʻxtatilmoqda...")
                         while current_value < upper_threshold:
                             current_value = get_counter_from_screen(region)
                             print(f"Joriy hisoblagich: {current_value}")
