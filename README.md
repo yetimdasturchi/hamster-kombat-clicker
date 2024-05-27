@@ -2,7 +2,7 @@
 
 ![hamster kombat](https://i.ibb.co/hXZf0c2/image.png)
 
-Imkoniyatlar:
+## Imkoniyatlar:
 
 - Bosish nuqtalarini orticha harakatlarsiz kalibrovka qilish
 - Bosish nuqtasini belgilangan maydonda tasodifiylashtirish
